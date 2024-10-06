@@ -1,6 +1,6 @@
 🔌 Electric Vehicle Analysis Dashboard 🚗📊
 
-Excited to share this interactive #PowerBI dashboard that dives deep into the world of Electric Vehicles (EVs)! 🌱⚡
+Excited to share this interactive #Tableau dashboard that dives deep into the world of Electric Vehicles (EVs)! 🌱⚡
 
 Here’s what the analysis reveals:
 
@@ -12,4 +12,4 @@ Here’s what the analysis reveals:
 📊 Growth Over Time: Huge spike in EV adoption post-2020! 📆
 This dashboard also breaks down EV data by model, make, and Clean Air Vehicle (CAFV) eligibility, offering a comprehensive look into the EV landscape. 🌍🔋
 
-#DataVisualization #ElectricVehicles #Sustainability #PowerBI #DataAnalytics #CleanEnergy 🌿
+#DataVisualization #ElectricVehicles #Sustainability #Tableau #DataAnalytics #CleanEnergy 🌿
